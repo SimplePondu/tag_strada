@@ -1,0 +1,10 @@
+.heading{
+  color:aqua
+}
+
+.square {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background: black;
+}
